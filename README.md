@@ -4,8 +4,6 @@
 
 DepShield is a powerful, open-source security tool designed to protect your software supply chain. It scans project dependency files (like `package.json`, `requirements.txt`, and `Gemfile`) to detect and visualize risks associated with typosquatting, dependency confusion, and abandoned packages.
 
-![DepShield Dashboard Mockup](https://raw.githubusercontent.com/gavriel953/depshield/main/docs/screenshot.png) *(Note: Add your own screenshot here)*
-
 ## ✨ Features
 
 - **Multi-Ecosystem Support:** Scan `npm` (JavaScript), `pip` (Python), and `RubyGems` (Ruby) dependencies.
